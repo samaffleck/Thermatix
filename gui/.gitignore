@@ -1,0 +1,4 @@
+# Build directories
+build/
+cmake-build-*/
+build_wasm/
