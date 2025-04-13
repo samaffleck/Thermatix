@@ -46,9 +46,3 @@ Run the Next.js local development server:
    ```
    App should now be running on [localhost:3000](http://localhost:3000/).
 
-
-## Deploying to the 'preprod' (preview) Vercel environment
-   
-   - create a commit on the `preprod` branch
-   - push to github
-   - notify Lei that a new preprod version is ready to be tested
